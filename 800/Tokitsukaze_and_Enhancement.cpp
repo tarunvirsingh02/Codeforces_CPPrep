@@ -1,6 +1,10 @@
 /*
     Codeforces: A. Tokitsukaze and Enhancement
     Rating: 800
+    Problem Type:
+    - Modulo / Remainders
+    - Casework
+    - Implementation
 
     Implementation:
     Find x % 4.
